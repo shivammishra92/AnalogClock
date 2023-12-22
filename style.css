@@ -2,13 +2,12 @@
     /*display: flex;
     justify-content: center;*/
     position: relative;
-    border: 2px solid black;
     margin: auto;
-    background-color:black;
     height: 40vw;
     width:40vw;
     background: url(clock.jpeg) no-repeat;
     background-size: 100%;
+    
 }
 #hr, #min, #sec{
     position: absolute;
